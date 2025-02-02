@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "change_difficulty",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Menu",
-    "path": "folders/Menu.yy",
+  "$GMScript":"v1",
+  "%Name":"change_difficulty",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"change_difficulty",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Menu.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

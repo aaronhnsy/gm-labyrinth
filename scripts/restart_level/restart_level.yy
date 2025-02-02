@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "restart_level",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Menu",
-    "path": "folders/Menu.yy",
+  "$GMScript":"v1",
+  "%Name":"restart_level",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"restart_level",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Menu.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
